@@ -14,7 +14,7 @@
  - [damagelog](http://aslain.com/) ヒットログ XFT's config
  - [enemy_indicator](https://protanki.tv/mods/battle_mod/indikator-blizhaishego-vraga) 最も近い敵に矢印
  - [minimap_guns](https://protanki.tv/mods/battle_mod/stvoly-protivnika-na-minikarte) 砲身向き表示 
- - [ATAC](http://wotsite.net/mody-dlya-world-of-tanks/12160-mod-atas-dlya-wot.html) 50m圏内警告表示
- - [spotIndicator](http://aslain.com/) 敵発見方向表示
+ - [ATAC](https://puu.sh/BcX59/9fd5ed1c95.zip) 50m圏内警告表示
+ - [spotIndicator](https://puu.sh/BcX56/a170771af0.zip) 敵発見方向表示
  - []()
  
