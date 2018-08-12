@@ -11,7 +11,7 @@
  
 # その他
  - [Pmod](https://wgmods.net/50/) ズーム＆戦闘補助
- - [damagelog](http://aslain.com/) ヒットログ XFT's config
+ - [damagelog](http://aslain.com/) ダメージログ XFT's config
  - [enemy_indicator](https://protanki.tv/mods/battle_mod/indikator-blizhaishego-vraga) 最も近い敵に矢印
  - [minimap_guns](https://protanki.tv/mods/battle_mod/stvoly-protivnika-na-minikarte) 砲身向き表示 
  - [ATAC](https://puu.sh/BcX59/9fd5ed1c95.zip) 50m圏内警告表示
