@@ -1,8 +1,17 @@
-# [elohere](https://puu.sh/zIMFL/5b884a315b.osk)
-![](https://puu.sh/zIMFn/ac6fee602d.png)
+# [Panmimi](https://puu.sh/Bf4HY/32696990d6.osk)
+![](https://puu.sh/Bf4If/1c84e0fb37.png)
 
-# [idke](https://puu.sh/yaCfg/ba6d0a0bd9.osk)
-![](https://puu.sh/yaCeD/a5d855bee9.png)
+# [elohere simple](https://puu.sh/Bf4J1/79c4f2744c.osk)
+![](https://puu.sh/Bf4JK/b5ef450feb.png)
 
-# [Chitanda](https://puu.sh/zIMKG/0a3c1f8f51.osk)
-![](https://puu.sh/zIMKQ/ec63669722.png)
+# [elohere](https://puu.sh/Bf4Jj/be93a4d0b9.osk)
+![](https://puu.sh/Bf4Ki/156c92f3ff.png)
+
+# [Chitanda](https://puu.sh/Bf4Jm/c6b0bbc37d.osk)
+![](https://puu.sh/Bf4KN/36e2b59f3c.png)
+
+# [Kamui](https://puu.sh/Bf4Jo/d0443997a1.osk)
+![](https://puu.sh/Bf4LB/0e02fffe67.png)
+
+# [Default+](https://puu.sh/Bf4IQ/22f8a0109a.osk)
+![](https://puu.sh/Bf4Mg/90a544f683.png)
