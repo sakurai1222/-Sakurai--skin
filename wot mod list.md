@@ -1,7 +1,7 @@
 # ユーティリティ
  - [Preferredserver](https://wgmods.net/737/) お気に入りサーバー保存
- - [modslistapi](https://bitbucket.org/P0LIR0ID/modslist/downloads/) リストapi
- - [modsettingsapi](http://aslain.com/) 設定api
+ - ~~[modslistapi](https://bitbucket.org/P0LIR0ID/modslist/downloads/) リストapi~~
+ - ~~[modsettingsapi](http://aslain.com/) 設定api~~
  
 # スキン
  - [White_corpes](http://aslain.com/) 死骸白色化
